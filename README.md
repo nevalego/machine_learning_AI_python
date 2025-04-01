@@ -1,4 +1,5 @@
 # Project Description:  Big Data Analysis: Statistics, ETL, Machine Learning & Visualization (English version)
+
 Welcome to this repository, where you'll find a series of projects focused on Big Data and Data Science, applying advanced techniques for processing, analyzing, and visualizing large-scale datasets.
 Each project showcases key skills in handling real-world data, using datasets from various sources, including Kaggle.
 
@@ -20,13 +21,18 @@ Creating interactive and dynamic charts using Matplotlib, Seaborn, Plotly, and B
 Applying advanced techniques to enhance performance and efficiency when handling large datasets.
 
 ## 🎯 Why This Repository?
-* 📌 Showcases real-world experience in data analysis, machine learning, and big data.
-* 📌 Well-documented code, ideal for learning and reusing in business applications.
-* 📌 Attractive for recruiters looking for data science, AI, and predictive modeling talent.
 
-📩 I’m open to new opportunities! If you’re interested in my work, feel free to reach out.
+📌 Showcases real-world experience in data analysis, machine learning, and big data.
 
+📌 Well-documented code, ideal for learning and reusing in business applications.
+
+📌 Attractive for recruiters looking for data science, AI, and predictive modeling talent.
+
+📩 I’m *open to new opportunities*! If you’re interested in my work, feel free to reach out.
+
+ 
 # Descripción del proyecto: Análisis de Big Data: Estadísticas, ETL, Aprendizaje Automático y Visualización (Versión en español) 
+
 Bienvenido a este repositorio, donde encontrarás una serie de proyectos enfocados en Big Data y Ciencia de Datos, aplicando técnicas avanzadas para el procesamiento, análisis y visualización de grandes volúmenes de información.
 
 ## ¿Qué encontrarás en este repositorio?
@@ -48,8 +54,10 @@ Uso de técnicas avanzadas para mejorar el rendimiento y la eficiencia en el pro
 
 ## 🎯 ¿Por qué este repositorio?
 
-* 📌 Demuestra experiencia real en análisis de datos, aprendizaje automático y big data.
-* 📌 Código bien documentado, ideal para aprendizaje y reutilización en proyectos empresariales.
-* 📌 Atractivo para reclutadores en busca de talento en ciencia de datos, IA y desarrollo de modelos predictivos.
+📌 Demuestra experiencia real en análisis de datos, aprendizaje automático y big data.
 
-📩 ¡Estoy abierto a nuevas oportunidades! Si te interesa mi trabajo, no dudes en contactarme.
+📌 Código bien documentado, ideal para aprendizaje y reutilización en proyectos empresariales.
+
+📌 Atractivo para reclutadores en busca de talento en ciencia de datos, IA y desarrollo de modelos predictivos.
+
+📩 ¡Estoy *abierto a nuevas oportunidades*! Si te interesa mi trabajo, no dudes en contactarme.
