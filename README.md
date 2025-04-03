@@ -26,8 +26,6 @@ Applying advanced techniques to enhance performance and efficiency when handling
 
 📌 Well-documented code, ideal for learning and reusing in business applications.
 
-📌 Attractive for recruiters looking for data science, AI, and predictive modeling talent.
-
 📩 I’m *open to new opportunities*! If you’re interested in my work, feel free to reach out.
 
  
@@ -57,7 +55,5 @@ Uso de técnicas avanzadas para mejorar el rendimiento y la eficiencia en el pro
 📌 Demuestra experiencia real en análisis de datos, aprendizaje automático y big data.
 
 📌 Código bien documentado, ideal para aprendizaje y reutilización en proyectos empresariales.
-
-📌 Atractivo para reclutadores en busca de talento en ciencia de datos, IA y desarrollo de modelos predictivos.
 
 📩 ¡Estoy *abierto a nuevas oportunidades*! Si te interesa mi trabajo, no dudes en contactarme.
